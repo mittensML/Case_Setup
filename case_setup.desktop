@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Name=Case Setup
+Exec=Case_Setup.sh
+Icon=case_setup.ico
+Terminal=false
+StartupNotify=false
+Type=Application

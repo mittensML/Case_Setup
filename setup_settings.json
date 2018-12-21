@@ -1,0 +1,21 @@
+{
+  "AUTOPSY": false, 
+  "AXIOM": false, 
+  "CELLEBRITE": false, 
+  "COPY_DISCLOSURE_MEMO": true, 
+  "DEVICE_PHOTOS": true, 
+  "DISCLOSURE_MEMO": "./Disclosure_Memo.odt", 
+  "ENCASE": false, 
+  "EXPORT": true, 
+  "FINAL_DISCLOSURE": true, 
+  "FORENSIC_IMAGES": true, 
+  "IEF": false, 
+  "OTHER_LOC": "/SrvOther", 
+  "REPORTS": true, 
+  "SERVER1": "Srv1", 
+  "SERVER2": "Srv2", 
+  "USER_INITIALS": "", 
+  "WARRANT_PHOTOS": true, 
+  "XWAYS": false
+}
+

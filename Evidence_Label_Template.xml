@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Glabels-document xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="Dymo" part="30336" size="Other" width="1in" height="2.125in" description="Small Multipurpose Label">
+    <Meta category="user-defined"/>
+    <Label-rectangle id="0" width="0.84in" height="1.9in" round="0.035in" x_waste="0.079in" y_waste="0.118in">
+      <Markup-margin size="0.01in"/>
+      <Layout nx="1" ny="1" x0="0.079in" y0="0.118in" dx="0.998in" dy="2.136in"/>
+    </Label-rectangle>
+  </Template>
+  <Objects id="0" rotate="True">
+    <Object-text x="0.04in" y="0.0399798in" w="1.806in" h="0.760799in" justify="Center" valign="Top" auto_shrink="False" a0="1" a1="0" a2="0" a3="1" a4="0" a5="0">
+      <Span color="0x000000ff" font_family="Sans" font_size="11" font_weight="Regular" font_italic="False" line_spacing="1">
+        <Field name="inc_num"/>
+        <NL/>
+        <Field name="exhibit"/>
+        <NL/>
+        <Field name="investigator_name"/>
+        <NL/>
+        <Field name="submit_date"/>
+      </Span>
+    </Object-text>
+  </Objects>
+  <Merge type="Text/Comma/Line1Keys" src="/home/matt/Desktop/Evidence/Disclosure_templates/labels.csv"/>
+  <Data/>
+</Glabels-document>
